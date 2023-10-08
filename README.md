@@ -1,6 +1,6 @@
 # A Real-Time Strand Breakage Detection Method for Power Line Inspection with UAVs
 
-This is the official implementation for 'A Real-Time Strand Breakage Detection Method for Power Line Inspection with UAVs'
+This is the official implementation for [A Real-Time Strand Breakage Detection Method for Power Line Inspection with UAVs](https://doi.org/10.3390/drones7090574)
 
 ## Abs
 
