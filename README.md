@@ -12,23 +12,14 @@ This repository contains the source codes of our paper "A Real-Time Strand Break
 Please cite our paper when using the codes or data in this repository:
 
 @article{yan2023real,
-
   title={A Real-Time Strand Breakage Detection Method for Power Line Inspection with UAVs},
-  
   author={Yan, Jichen and Zhang, Xiaoguang and Shen, Siyang and He, Xing and Xia, Xuan and Li, Nan and Wang, Song and Yang, Yuxuan and Ding, Ning},
-  
   journal={Drones},
-  
   volume={7},
-  
   number={9},
-  
   pages={574},
-  
   year={2023},
-  
   publisher={MDPI}
-  
 }
 
 
